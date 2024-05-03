@@ -19,6 +19,11 @@ const Works = () => {
         <img src={Portfolio4} alt="" className="worksImg" onClick={() => window.open('https://priyam117.github.io/GitHub-finder/', '_blank')} />
         <img src={Portfolio5} alt="" className="worksImg" onClick={() => window.open('https://priyam117.github.io/Home-Assignment/Day-15/index.html', '_blank')} />
         <img src={Portfolio6} alt="" className="worksImg" onClick={() => window.open('https://priyam117.github.io/Home-Assignment/Day-12/index.html', '_blank')} />
+        <img src={Portfolio2} alt="" className="worksImg" onClick={() => window.open('https://shubham242001.github.io/project02/asas.html', '_blank')} />
+        <img src={Portfolio3} alt="" className="worksImg" onClick={() => window.open('https://priyam117.github.io/Project-MCT/', '_blank')} />
+        <img src={Portfolio4} alt="" className="worksImg" onClick={() => window.open('https://priyam117.github.io/Drum-kit/', '_blank')} />
+        <img src={Portfolio5} alt="" className="worksImg" onClick={() => window.open('https://priyam117.github.io/holiday-tour-business/', '_blank')} />
+        <img src={Portfolio6} alt="" className="worksImg" onClick={() => window.open('https://cwr-day8-46n4hbmz9-priyam-gautams-projects.vercel.app/', '_blank')} />
       </div>
     </section>
   )
