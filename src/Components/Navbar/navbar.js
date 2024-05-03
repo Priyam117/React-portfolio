@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
-  const resumeLink = 'https://drive.google.com/file/d/1Gj8VVfXVMBEv0wENeATiFr-l8_GgRgNC/view?usp=drive_link';
+  const resumeLink = 'https://drive.google.com/file/d/1JNTidUDzLx7492QmF7tCvYwB5kkp2wcQ/view?usp=sharing';
   return (
     <nav className='navbar'>
       <img src={logo} alt="logo" className='logo' />
